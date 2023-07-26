@@ -2,7 +2,7 @@
 - 👀 I’m interested in OS scheduling/CPU/Security.
 - 🌱 I’m currently learning "Energy aware scheduling and freq scaling in linux/android".
 - 💞️ I’m looking to collaborate on energy aware scheduling and freq scaling
-- 📫 How to reach me --- qlsang@whu.edu.cn
+- 📫 How to reach me --- qlsang@whu.edu.cn or hacksonsang@gmail.com
 
 <!---
 codefuturedalao/codefuturedalao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
